@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "968654133575",
+    "project_id": "gym-management-e98f3",
+    "storage_bucket": "gym-management-e98f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968654133575:android:6bf6f7ccdc3a4d8f5a5462",
+        "android_client_info": {
+          "package_name": "com.example.firebase_image_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968654133575-l4hnn9tqljhlf5vv2t40nu35kmq8unoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezuTTkLtb0WkxawBVjs-BpX2s_uwFCvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968654133575-l4hnn9tqljhlf5vv2t40nu35kmq8unoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968654133575-im8n0gf1hobb9eov92dldd8ig3gjlamb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatPrototype"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968654133575:android:86371b9d7b918ff65a5462",
+        "android_client_info": {
+          "package_name": "com.example.the_bar_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968654133575-l4hnn9tqljhlf5vv2t40nu35kmq8unoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezuTTkLtb0WkxawBVjs-BpX2s_uwFCvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968654133575-l4hnn9tqljhlf5vv2t40nu35kmq8unoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968654133575-im8n0gf1hobb9eov92dldd8ig3gjlamb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatPrototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
